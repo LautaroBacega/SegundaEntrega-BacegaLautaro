@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Bicicleta",
+    "description": "Rodado 20",
+    "code": "Bike20",
+    "price": "250000",
+    "stock": "10",
+    "category": "Bikes",
+    "id": "77ed137f-4bd4-46e1-863c-176589d86be8"
+  },
+  {
+    "title": "Bicicleta",
+    "description": "Rodado 26",
+    "code": "Bike26",
+    "price": "350000",
+    "stock": "5",
+    "category": "Bikes",
+    "id": "6d75c2be-e105-418e-b661-10ee3e3b5a7d"
+  },
+  {
+    "title": "Bicicleta",
+    "description": "Rodado 29",
+    "code": "Bike29",
+    "price": "450000",
+    "stock": "1",
+    "category": "Bikes",
+    "id": "f1619313-59ba-4c02-804f-18c195065d8e"
+  }
+]
