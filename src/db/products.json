@@ -25,5 +25,14 @@
     "stock": "1",
     "category": "Bikes",
     "id": "f1619313-59ba-4c02-804f-18c195065d8e"
+  },
+  {
+    "title": "Prueba 29/5 11.05am",
+    "description": "Prueba 29/5 11.05am",
+    "code": "prueba",
+    "price": "1",
+    "stock": "1",
+    "category": "pruebas",
+    "id": "60d1b6e6-9c14-4a9a-9074-4c98e36768ab"
   }
 ]

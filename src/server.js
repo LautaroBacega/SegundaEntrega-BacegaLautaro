@@ -1,5 +1,5 @@
 import express from 'express';
-import { __dirname } from './utils/path.js';
+import { __dirname } from '../src/path.js';
 import handlebars from 'express-handlebars';
 import { Server } from 'socket.io';
 import viewsRouter from './routes/views.router.js';
